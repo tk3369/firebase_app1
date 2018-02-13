@@ -3,7 +3,7 @@
 Testing Google's firebase.  
 
 * This app is deployed at https://app1-6affb.firebaseapp.com/
-* The `bigben` endpoint can be accessed at https://app1-6affb.firebaseapp.com/
+* The `bigben` endpoint can be accessed at https://app1-6affb.firebaseapp.com/bigben
 
 ## What I did
 
